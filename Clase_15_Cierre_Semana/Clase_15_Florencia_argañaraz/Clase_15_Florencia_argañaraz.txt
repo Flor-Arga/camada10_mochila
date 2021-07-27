@@ -1,0 +1,11 @@
+A-
+1- Instalamos git en el terminal.
+2- Clonamos el repositorio de la camada. 
+3- Clonamos la rama remota en el git local con el comando git checkout -b nombre_rama origin/nombre_rama
+
+B- Apt-get es el comando en sistemas de debian para instalar programas en linux, borrarlos, actualizar los repositorios y actualizar el sistema desde la linea de comandos.
+
+C- Su se utiliza para cambiar el usuario a actual a otro usuario desde SSH. Si no se escribe a que usuario se desea cambiar por defecto cambia a super usuario.
+
+D- Nos resulto familiar por la experiencia previa con git bash.  
+
